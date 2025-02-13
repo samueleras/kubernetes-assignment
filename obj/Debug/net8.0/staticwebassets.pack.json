@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SynologyDrive\\Dateien\\VSCodeProjects\\University\\Future Technologies\\kubernetes-assignment\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.kubernetes_assignment.props",
+      "PackagePath": "build\\kubernetes_assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.kubernetes_assignment.props",
+      "PackagePath": "buildMultiTargeting\\kubernetes_assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.kubernetes_assignment.props",
+      "PackagePath": "buildTransitive\\kubernetes_assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.kubernetes_assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

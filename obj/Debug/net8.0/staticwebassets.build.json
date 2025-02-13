@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "KkxWuLUA6jy7UTxc3emWDA6EJKcodVyDJCGcoaT79vQ=",
+  "Source": "kubernetes_assignment",
+  "BasePath": "_content/kubernetes_assignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "kubernetes_assignment\\wwwroot",
+      "Source": "kubernetes_assignment",
+      "ContentRoot": "E:\\SynologyDrive\\Dateien\\VSCodeProjects\\University\\Future Technologies\\kubernetes-assignment\\wwwroot\\",
+      "BasePath": "_content/kubernetes_assignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\SynologyDrive\\Dateien\\VSCodeProjects\\University\\Future Technologies\\kubernetes-assignment\\wwwroot\\index.html",
+      "SourceId": "kubernetes_assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\SynologyDrive\\Dateien\\VSCodeProjects\\University\\Future Technologies\\kubernetes-assignment\\wwwroot\\",
+      "BasePath": "_content/kubernetes_assignment",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
