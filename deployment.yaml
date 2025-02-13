@@ -15,5 +15,6 @@ spec:
       containers:
         - name: kubernetes-assignment
           image: samuele2000/kubernetes_assignment:latest
+          imagePullPolicy: Always
           ports:
             - containerPort: 8080
